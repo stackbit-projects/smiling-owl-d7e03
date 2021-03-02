@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: A better web
-    subtitle: Playing around with some Stackbit templates
+    subtitle: ya know
     actions:
       - label: Learn More
         url: /features
